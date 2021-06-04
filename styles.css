@@ -1,0 +1,49 @@
+Body {
+    text-align: center;
+    background: blue;
+}
+
+.yes-btn {
+    width: 140px;
+    height: 20px;
+
+}
+
+.no-btn {
+    width: 140px;
+    height: 20px;
+
+}
+
+.crying {
+    display: flex;
+    justify-content: center;
+    display: none;
+    width:200px;
+    height:200px;
+}
+
+.main {
+    display: none;
+}
+
+.two {
+    display: none;
+}
+
+.ice-cream{
+    display:none;
+    
+}
+
+
+
+
+h2 {
+    display: none;
+
+}
+
+h3{
+ display:none;   
+}
